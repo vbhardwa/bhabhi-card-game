@@ -1,0 +1,7 @@
+* currently if the player which was not asked to play a card enters something in the keyboard
+before its current, game crashes
+
+* need to delete card from list of card player has after it has player it successfully
+and give it a updated list of card he/she has
+
+* LinkedList probably a better option than ArrayList for maintaining list of cards
